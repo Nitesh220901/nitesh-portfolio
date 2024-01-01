@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Snake Mania",
+    "imageSrc": "projects/snakemania-img.png",
+    "description": "A Game app that allow users to play and have some fun.",
+    "skills": ["javascript", "CSS", "HTML"],
+    "demo": "https://playsnakegame-1.netlify.app/",
+    "source": "https://github.com/Nitesh220901/Snake-Game"
+  },
+  {
+    "title": "News App",
+    "imageSrc": "projects/news-img.png",
+    "description": "News App which gives the current news around the sports ,politics,etc",
+    "skills": ["React", "Javascript","API", "CSS"],
+    "demo": "https://newsapp-5.netlify.app/",
+    "source": "https://github.com/Nitesh220901/News-App/tree/master"
+  },
+  {
+    "title": "Banana-talk",
+    "imageSrc": "projects/banana-talk-img.png",
+    "description": "A app which convert the english language to another ,its good to fun with it.",
+    "skills": ["Javascript", "API", "CSS"],
+    "demo": "https://bananaa-talkk.netlify.app/",
+    "source": "https://github.com/Nitesh220901/Talk-Banana"
+  },
+  {
+    "title": "Dev Portfolio",
+    "imageSrc": "projects/dev-img.png",
+    "description": "A portfolio website that shows the work of an individual .",
+    "skills": ["Javascript", "CSS", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Nitesh220901/Dev-Portfolio"
+  },
+  {
+    "title": "Resume Builder",
+    "imageSrc": "projects/resume-img.png",
+    "description": "A Resume Template to assit individuals in creating a well structured resume.",
+    "skills": ["Javascript", "Bootstrap", "HTML"],
+    "demo": "https://resumebuilder-1.netlify.app/",
+    "source": "  https://github.com/Nitesh220901/ResumeBuilder"
+  },
+
+  {
+    "title": "Social UI",
+    "imageSrc": "projects/social-img.png",
+    "description": "A Social UI website that shows my responsive work.",
+    "skills": ["HTML", "CSS", "Responsive"],
+    "demo": "  https://social-ui-blog.netlify.app/",
+    "source": "https://github.com/Nitesh220901/social-ui-blog"
+  }
+
+]
