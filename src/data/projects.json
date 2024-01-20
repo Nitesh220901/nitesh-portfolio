@@ -1,4 +1,11 @@
-[
+[ {
+  "title": "Book Store",
+  "imageSrc": "projects/book-store-img.png",
+  "description": "A Book Store app that allow users to Book title author and year.",
+  "skills": ["MERN","Tailwind CSS"],
+  "demo": "https://book-store5.netlify.app/",
+  "source": "https://github.com/Nitesh220901/book_mern"
+},
   {
     "title": "Snake Mania",
     "imageSrc": "projects/snakemania-img.png",
