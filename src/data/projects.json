@@ -1,4 +1,12 @@
-[ {
+[  {
+  "title": "ThreadClone",
+  "imageSrc": "projects/thread-img.png",
+  "description": "A App in which users can signup,login,logout,post ,comment,bio ,follow,chats with each other",
+  "skills": ["MERN","Tailwind CSS","chakra UI"],
+  "demo": "https://threadclone-lckr.onrender.com/",
+  "source": "https://github.com/Nitesh220901/threadclone"
+},
+{
   "title": "Book Store",
   "imageSrc": "projects/book-store-img.png",
   "description": "A Book Store app that allow users to Book title author and year.",
